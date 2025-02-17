@@ -1,0 +1,8 @@
+#cursor_coordinates {
+    font-size: 7vh;
+    height: 100vh;
+    margin-top: -1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
